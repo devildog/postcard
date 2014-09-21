@@ -13,6 +13,8 @@
 		224068FF19CE5C93000EFE07 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 224068FE19CE5C93000EFE07 /* Images.xcassets */; };
 		2240690219CE5C93000EFE07 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2240690019CE5C93000EFE07 /* LaunchScreen.xib */; };
 		2240690E19CE5C93000EFE07 /* Postcard2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2240690D19CE5C93000EFE07 /* Postcard2Tests.swift */; };
+		2240691919CE5D88000EFE07 /* DSC_0212.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2240691719CE5D88000EFE07 /* DSC_0212.JPG */; };
+		2240691A19CE5D88000EFE07 /* stamp.png in Resources */ = {isa = PBXBuildFile; fileRef = 2240691819CE5D88000EFE07 /* stamp.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		2240690719CE5C93000EFE07 /* Postcard2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Postcard2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2240690C19CE5C93000EFE07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2240690D19CE5C93000EFE07 /* Postcard2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Postcard2Tests.swift; sourceTree = "<group>"; };
+		2240691719CE5D88000EFE07 /* DSC_0212.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DSC_0212.JPG; sourceTree = "<group>"; };
+		2240691819CE5D88000EFE07 /* stamp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stamp.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 		224068F419CE5C93000EFE07 /* Postcard2 */ = {
 			isa = PBXGroup;
 			children = (
+				2240691719CE5D88000EFE07 /* DSC_0212.JPG */,
+				2240691819CE5D88000EFE07 /* stamp.png */,
 				224068F719CE5C93000EFE07 /* AppDelegate.swift */,
 				224068F919CE5C93000EFE07 /* ViewController.swift */,
 				224068FB19CE5C93000EFE07 /* Main.storyboard */,
@@ -192,7 +198,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2240691A19CE5D88000EFE07 /* stamp.png in Resources */,
 				224068FD19CE5C93000EFE07 /* Main.storyboard in Resources */,
+				2240691919CE5D88000EFE07 /* DSC_0212.JPG in Resources */,
 				2240690219CE5C93000EFE07 /* LaunchScreen.xib in Resources */,
 				224068FF19CE5C93000EFE07 /* Images.xcassets in Resources */,
 			);
